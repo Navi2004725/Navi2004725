@@ -16,32 +16,34 @@
 </p>
 
 ## 🌐 Socials:
-<p align="left">
-<a href="https://discordapp.com/users/1266317984234864784"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" /></a>
-<a href="https://www.instagram.com/naveesh_induwara"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/naveesh-abeydheera-a92511332"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-<a href="https://youtube.com/@technavi123"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /></a>
+<p align="center">
+<a href="https://discordapp.com/users/1266317984234864784"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" /></a> &nbsp;
+<a href="https://www.instagram.com/naveesh_induwara"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/naveesh-abeydheera-a92511332"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a> &nbsp;
+<a href="https://youtube.com/@technavi123"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /></a> &nbsp;
 <a href="mailto:naveeshabeydeera123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 # 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+<img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Navi2004725&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Navi2004725&layout=compact&theme=radical&hide_border=false&cache_seconds=1800" alt="Top Languages" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navi2004725&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
