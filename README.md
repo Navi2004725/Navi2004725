@@ -11,6 +11,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZkYW5tcDlqdTU1bGxua3MydGd3MjRibjR0bHBvMnlzcXIyb3hhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif" width="100%" height="250px" style="object-fit: cover;" alt="Cybersecurity Animation" />
+</p>
+
 ## 🌐 Socials:
 <p align="left">
 <a href="https://discordapp.com/users/1266317984234864784"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" /></a>
@@ -35,22 +39,23 @@
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navi2004725&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-  <br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Navi2004725&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navi2004725&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/Navi2004725/Navi2004725/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
-## 📈 Activity Overview
+### 📈 Detailed Activity
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navi2004725&theme=github_dark" />
 </p>
@@ -59,9 +64,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Navi2004725&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
+  <br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
