@@ -30,6 +30,23 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+
+---
+
+
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Navi2004725/Navi2004725/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+
+
 ---
 
 
